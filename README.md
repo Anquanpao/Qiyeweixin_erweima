@@ -3,4 +3,4 @@
 
 ![企微抖音](https://github.com/user-attachments/assets/4a2d92af-4e02-42c8-8def-83866d3ef418)
 
-截图保存至微信扫码添加
+长按保存至微信扫码添加
